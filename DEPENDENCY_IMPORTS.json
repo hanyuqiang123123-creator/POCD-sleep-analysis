@@ -1,7 +1,6 @@
 {
   "PIL": [
-    "08_chemogenetics_hM3Dq",
-    "10_golgi"
+    "08_chemogenetics_hM3Dq"
   ],
   "__future__": [
     "01_behavior",
@@ -40,8 +39,7 @@
     "09_chemogenetics_hM4Di"
   ],
   "collections": [
-    "02_sleep_architecture",
-    "10_golgi"
+    "02_sleep_architecture"
   ],
   "csv": [
     "01_behavior",
@@ -50,8 +48,7 @@
     "05_photometry_state_phase",
     "06_photometry_postoperative",
     "07_optogenetics",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "dataclasses": [
     "02_sleep_architecture",
@@ -87,8 +84,7 @@
     "05_photometry_state_phase",
     "06_photometry_postoperative",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "heapq": [
     "03_spindle_SO_MA_coupling",
@@ -103,8 +99,7 @@
     "03_spindle_SO_MA_coupling",
     "05_photometry_state_phase",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "json": [
     "01_behavior",
@@ -114,8 +109,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "math": [
     "01_behavior",
@@ -124,8 +118,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "matplotlib": [
     "01_behavior",
@@ -136,8 +129,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "numpy": [
     "01_behavior",
@@ -148,8 +140,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "originpro": [
     "01_behavior",
@@ -172,8 +163,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "pathlib": [
     "01_behavior",
@@ -184,17 +174,10 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "patsy": [
     "01_behavior"
-  ],
-  "platform": [
-    "10_golgi"
-  ],
-  "pymupdf": [
-    "10_golgi"
   ],
   "re": [
     "01_behavior",
@@ -211,8 +194,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "shutil": [
     "01_behavior",
@@ -222,8 +204,7 @@
     "06_photometry_postoperative",
     "07_optogenetics",
     "08_chemogenetics_hM3Dq",
-    "09_chemogenetics_hM4Di",
-    "10_golgi"
+    "09_chemogenetics_hM4Di"
   ],
   "sleepworkbench": [
     "02_sleep_architecture",
@@ -241,8 +222,7 @@
     "02_sleep_architecture",
     "03_spindle_SO_MA_coupling",
     "06_photometry_postoperative",
-    "08_chemogenetics_hM3Dq",
-    "10_golgi"
+    "08_chemogenetics_hM3Dq"
   ],
   "sys": [
     "01_behavior",
