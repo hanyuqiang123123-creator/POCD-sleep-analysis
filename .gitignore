@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+raw_data/
+outputs/
+*.edf
+*.pvfs
+*.db3
